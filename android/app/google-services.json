@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776446246419",
+    "firebase_url": "https://unnayan-e10b9-default-rtdb.firebaseio.com",
+    "project_id": "unnayan-e10b9",
+    "storage_bucket": "unnayan-e10b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776446246419:android:f70d6b959d40941ee209e6",
+        "android_client_info": {
+          "package_name": "com.example.unnayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776446246419-8ktginp2p60r3vq05snuom2ijo1bunv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAokUnpKq6MJxpS4NoN45h3MyORFNVxIWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776446246419-8ktginp2p60r3vq05snuom2ijo1bunv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
